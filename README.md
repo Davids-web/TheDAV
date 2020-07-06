@@ -1,2 +1,2 @@
-# TheUCGA
+UCGA
 nonProfitable Organisation,MTM
