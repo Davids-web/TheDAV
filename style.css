@@ -1,8 +1,10 @@
 h1{
+	width: auto;
 	color: blue;
 	text-align: center;
 	border: 5px solid orange;
 	background: yellow;
+	margin: 0;
 }
 .main{
 	display: flex;
@@ -25,5 +27,8 @@ h1{
 	border-radius: 150px;
 }
 *{
-	background-color: darkpink;
+	background-color: pink;
+}
+h3,p{
+	background-color: orange;
 }
