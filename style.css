@@ -1,7 +1,7 @@
-h1{
+.h1{
 	width: auto;
 	color: blue;
-	text-align: center;
+	text-align: right;
 	border: 5px solid orange;
 	background: yellow;
 	margin: 0;
@@ -9,17 +9,20 @@ h1{
 .main{
 	display: flex;
 	width: auto;
-	height: 500px;
+	height: 700px;
 	border: 5px solid red;
 	background: orange;
+	padding: 0 10px 10px 10px;
 
 }
 .main>div{
-	margin: auto;
-	background: orange;
+	margin: top;
+	background: white;
 	width: auto;
-	height: 400px;
+	height: 300px;
+	border: 2px solid black;
 	text-align: center;
+	padding: 10px 20px 20px 20px;
 }
 #poto{
 	width: 200px;
