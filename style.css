@@ -1,10 +1,11 @@
 .h1{
 	width: auto;
 	color: blue;
-	text-align: right;
+	text-align: center;
 	border: 5px solid orange;
 	background: yellow;
 	margin: 0;
+	text-shadow: 1px 1px 10px red;
 }
 .main{
 	display: flex;
@@ -17,20 +18,20 @@
 }
 .main>div{
 	margin: top;
-	
 	width: auto;
 	height: 300px;
-	border: 2px solid black;
+	
 	text-align: center;
 	padding: 10px 20px 20px 20px;
 }
 #poto{
 	width: 200px;
 	height: 300px;
-	border-radius: 150px;
+	border-radius: 40px;
+	box-shadow: 1px 1px 12px red;
 }
 *{
-	background-color: pink;
+	
 }
 h3,p{
 	background-color: orange;
