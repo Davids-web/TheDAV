@@ -1,9 +1,9 @@
 .h1{
 	width: auto;
-	color: blue;
+	color: white;
 	text-align: center;
 	border: 5px solid orange;
-	background: yellow;
+	background: white;
 	margin: 0;
 	text-shadow: 1px 1px 10px red;
 }
