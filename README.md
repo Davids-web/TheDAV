@@ -1,2 +1,0 @@
-# UCGA
-## nonProfitable Organisation,MTM
